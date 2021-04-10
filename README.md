@@ -1,4 +1,4 @@
-Free open source software developer and libre open artist, committed actor of the community.
+**Free open source software developer and libre open artist, committed actor of the community.**
 
 [![illwieckz' banner](img/banner-concise.png)](https://liberapay.com/illwieckz)
 
