@@ -6,7 +6,7 @@
 
 [![illwieckz' banner](img/banner-concise.png)](https://liberapay.com/illwieckz)
 
-Project head of the [Unvanquished game](https://unvanquished.net/) and [Daemon game engine](https://github.com/DaemonEngine/Daemon) maintainer of the [NetRadiant](https://netradiant.gitlab.io) and Q3map2 3D game level authoring suite, maintainer of the [XQF game server browser](https://github.com/XQF/xqf), and author of [Urcheon](https://github.com/DaemonEngine/Urcheon), a game artistic asset builder and packaging suite. I'm also a writer at [LinuxFr.org](https://linuxfr.org/users/illwieckz).
+Project head of the [Unvanquished game](https://unvanquished.net/) and [Daemon game engine](https://github.com/DaemonEngine/Daemon), maintainer of the [NetRadiant](https://netradiant.gitlab.io) and Q3map2 3D game level authoring suite, maintainer of the [XQF game server browser](https://github.com/XQF/xqf), and author of [Urcheon](https://github.com/DaemonEngine/Urcheon), a game artistic asset builder and packaging suite. I'm also a writer at [LinuxFr.org](https://linuxfr.org/users/illwieckz).
 
 ## Committed actor of the community
 
