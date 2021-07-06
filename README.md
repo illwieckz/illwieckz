@@ -10,6 +10,6 @@ Project head of the [Unvanquished game](https://unvanquished.net/) and [Daemon g
 
 ## Committed actor of the community
 
-See also my [GitLab profile](https://gitlab.com/illwieckz), and other profiles on [freedesktop.org](https://gitlab.freedesktop.org/illwieckz), [GNOME](https://gitlab.gnome.org/), [Debian](https://salsa.debian.org/illwieckz) and [Jami](https://git.jami.net/illwieckz).
+See also my [GitLab profile](https://gitlab.com/illwieckz), and other profiles on [freedesktop.org](https://gitlab.freedesktop.org/illwieckz), [GNOME](https://gitlab.gnome.org/), [Debian](https://salsa.debian.org/illwieckz), etc.
 
 [![illwieckz's github statistics](https://github-readme-stats.vercel.app/api?username=illwieckz&show_icons=true&theme=dark&include_all_commits=true&line_height=28)](https://github.com/illwieckz) [![illwieckz's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illwieckz&show_icons=true&theme=dark&langs_count=10&layout=compact)](https://github.com/illwieckz)
