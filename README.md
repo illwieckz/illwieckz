@@ -1,6 +1,6 @@
 ## Support me
 
-[![Donate on Patreon](https://img.shields.io/badge/donate-patreon-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/bePatron?u=29259270) [![Donate on LiberaPay](https://img.shields.io/badge/donate-liberapay-yellow?style=for-the-badge&logo=liberapay)](https://liberapay.com/illwieckz/donate) [![Donate on Paypal](https://img.shields.io/badge/donate-paypal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/illwieckz)
+[![Donate on Patreon](https://img.shields.io/badge/donate-patreon-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/bePatron?u=29259270) [![Donate on LiberaPay](https://img.shields.io/badge/donate-liberapay-yellow?style=for-the-badge&logo=liberapay)](https://liberapay.com/illwieckz/donate) [![Donate on Paypal](https://img.shields.io/badge/donate-paypal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/illwieckz) [![Donate on Tipeee](https://img.shields.io/badge/donate-tipeee-e5555a?style=for-the-badge&logo=githubsponsors)](https://fr.tipeee.com/illwieckz/)
 
 ## Free open source software developer and libre open artist
 
@@ -10,6 +10,6 @@ Project head of the [Unvanquished game](https://unvanquished.net/) and [Daemon g
 
 ## Committed actor of the community
 
-See also my [GitLab profile](https://gitlab.com/illwieckz), and other profiles on [freedesktop.org](https://gitlab.freedesktop.org/illwieckz), [GNOME](https://gitlab.gnome.org/), [Debian](https://salsa.debian.org/illwieckz), etc.
+See also my [GitLab profile](https://gitlab.com/illwieckz), and other profiles on [freedesktop.org](https://gitlab.freedesktop.org/illwieckz), [GNOME](https://gitlab.gnome.org/illwieckz), [Debian](https://salsa.debian.org/illwieckz), etc.
 
 [![illwieckz's github statistics](https://github-readme-stats.vercel.app/api?username=illwieckz&show_icons=true&theme=dark&include_all_commits=true&line_height=28)](https://github.com/illwieckz) [![illwieckz's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illwieckz&show_icons=true&theme=dark&langs_count=10&layout=compact)](https://github.com/illwieckz)
