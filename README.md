@@ -1,6 +1,6 @@
 ## Support me
 
-[![Donate on Patreon](https://img.shields.io/badge/donate-patreon-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/bePatron?u=29259270) [![Donate on LiberaPay](https://img.shields.io/badge/donate-liberapay-yellow?style=for-the-badge&logo=liberapay)](https://liberapay.com/illwieckz/donate) [![Donate on Paypal](https://img.shields.io/badge/donate-paypal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/illwieckz) [![Donate on Tipeee](https://img.shields.io/badge/donate-tipeee-e5555a?style=for-the-badge&logo=githubsponsors)](https://fr.tipeee.com/illwieckz/)
+[![Donate on Patreon](https://img.shields.io/badge/donate-patreon-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/bePatron?u=29259270) [![Donate on LiberaPay](https://img.shields.io/badge/donate-liberapay-yellow?style=for-the-badge&logo=liberapay)](https://liberapay.com/illwieckz/donate) [![Donate on Tipeee](https://img.shields.io/badge/donate-tipeee-e5555a?style=for-the-badge&logo=githubsponsors)](https://fr.tipeee.com/illwieckz/) [![Donate on Paypal](https://img.shields.io/badge/donate-paypal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/illwieckz)
 
 ## Free open source software developer and libre open artist
 
