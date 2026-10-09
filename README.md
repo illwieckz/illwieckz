@@ -1,6 +1,6 @@
 ## Support me
 
-[![Donate on GitHub](https://img.shields.io/badge/donate-github-green?style=for-the-badge&logo=github)](https://github.com/sponsors/illwieckz) [![Donate on Patreon](https://img.shields.io/badge/donate-patreon-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/bePatron?u=29259270) [![Donate on LiberaPay](https://img.shields.io/badge/donate-liberapay-yellow?style=for-the-badge&logo=liberapay)](https://liberapay.com/illwieckz/donate) [![Donate on Tipeee](https://img.shields.io/badge/donate-tipeee-e5555a?style=for-the-badge&logo=githubsponsors)](https://tipeee.com/illwieckz) [![Donate on Paypal](https://img.shields.io/badge/donate-paypal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/illwieckz)
+[![Donate on GitHub](https://img.shields.io/badge/donate-github-green?style=for-the-badge&labelColor=555&logo=github)](https://github.com/sponsors/illwieckz) [![Donate on Patreon](https://img.shields.io/badge/-patreon-red?style=for-the-badge&labelColor=555&logo=patreon)](https://www.patreon.com/bePatron?u=29259270) [![Donate on LiberaPay](https://img.shields.io/badge/-liberapay-yellow?style=for-the-badge&labelColor=555&logo=liberapay)](https://liberapay.com/illwieckz/donate) [![Donate on Tipeee](https://img.shields.io/badge/tipeee-e5555a?style=for-the-badge&labelColor=555&logo=githubsponsors)](https://tipeee.com/illwieckz) [![Donate on Paypal](https://img.shields.io/badge/-paypal-blue?style=for-the-badge&labelColor=555&logo=paypal)](https://www.paypal.me/illwieckz)
 
 ## Linux and open-source consultant
 
